@@ -63,15 +63,6 @@ I’m **Muhammad Mustafa**, an AI Developer passionate about building **intellig
 
 ---
 
-### 🌐 Connect With Me  
-
-<p align="center">
-  📧 <a href="mailto:mustaffaaalii48@example.com">Email</a> |  
-  💼 <a href="https://linkedin.com/in/muhammadmustafa">LinkedIn</a> |  
-  🌍 <a href="https://your-portfolio.com">Portfolio</a>
-</p>
-
----
 
 ✨ *“AI is not just technology, it’s the future we’re building today.”*  
 
